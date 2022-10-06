@@ -281,3 +281,21 @@ form    {
     width: 30%;
     margin: auto;
 }
+
+/* MENSAJE */
+
+.mensaje{
+    text-align: center;
+    background-color: #e7974f;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: black 10px 10px;
+    width: 40%;
+    margin: auto;
+    margin-top: 240px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mensaje p{
+    font-size: 20px;
+}
