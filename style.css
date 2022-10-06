@@ -1,0 +1,178 @@
+.img{
+    height: 70px;
+}
+
+.IMG{ 
+    text-align: center;
+    margin-top: -230px;
+}
+
+.title{
+    text-align: center;
+    margin-top: 70px;
+    color: orange;
+}
+
+.Background{
+    /* text-align: center; */
+    width: 100%;
+    height: 200px;
+    background-image: url("programacion-background.jpg");
+    background-size: cover;
+    margin-top: 30px;
+}
+
+/* .background{
+    margin-top: 50px;
+    height: 150px;
+    width: 800px;
+} */
+
+.conocenos{
+    width: 400px;
+    text-align: center;
+    margin-left: 720px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.Alexandra{
+    text-align: right;
+    margin-top: 100px;
+}
+
+.alexandraimg{
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 300px;
+}
+
+.titlealexandra{
+    font-size: 25px;
+}
+
+.textalexandra{
+    text-align: center;
+    width: 1000px;
+    margin-left: 500px;
+    margin-top: -250px;
+    font-size: 20px;
+}
+
+.Emanuel{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+.emanuelimg{
+    height: 300px;
+    margin-left: 50px   ;
+}
+
+.titleemanuel{
+    font-size: 25px;
+}
+
+.textemanuel{
+    text-align: center;
+    margin-top: -300px;
+    width: 1000px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+
+.contacto{
+    text-align: center;
+}
+
+.titlecontacto{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fecha{
+    text-align: center;
+    width: 30%;
+    margin-left: 650px;
+    margin-top: 90px;
+}
+
+.dia1{
+    font-size: 40px;
+    margin-right: 400px;
+}
+
+.dia2{
+    margin-top: -90px;
+    margin-right: 300px;
+}
+
+.curso1{
+    margin-top: -70px;
+}
+
+.boton1{
+    margin-left: 400px;
+    margin-top: -50px;
+}
+
+.dia3{
+    font-size: 40px;
+    margin-right: 400px;
+}
+
+.dia4{
+    margin-top: -90px;
+    margin-right: 300px;
+}
+
+.curso2{
+    margin-top: -70px;
+}
+
+.boton2{
+    margin-left: 400px;
+    margin-top: -50px;
+}
+
+.dia5{
+    font-size: 40px;
+    margin-right: 400px;
+}
+
+.dia6{
+    margin-top: -90px;
+    margin-right: 300px;
+}
+
+.curso3{
+    margin-top: -70px;
+}
+
+.boton3{
+    margin-left: 400px;
+    margin-top: -50px;
+}
+
+.fecha1{
+    margin-top: 80px;
+}
+
+.fecha2{
+    border-top: solid black 2px;
+    margin-top: 80px;
+}
+
+.fecha3{
+    margin-top: 80px;
+    border-top: solid black 2px;
+}
+
+.buttons nav a{
+    text-decoration: none;
+}

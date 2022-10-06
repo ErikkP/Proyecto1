@@ -1,0 +1,283 @@
+.body {
+    background-color: #F5F5DC;
+}
+
+.img {
+    height: 70px;
+    border-radius: 10px;
+}
+
+.IMG {
+    text-align: center;
+    margin-top: -230px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 70px;
+    color: orange;
+}
+
+.Background {
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    background-image: url("programacion-2-e15512911449731.jpg");
+    background-size: cover;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.footer {
+    margin-top: 270px;
+    background-color: #e7974f;
+    width: 100%;
+    text-align: center;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.contactof {
+    margin-top: 300px;
+}
+
+.iconos a {
+    text-decoration-line: none;
+    color: black;
+
+}
+
+.buttons a {
+    text-decoration-line: none;
+}
+
+/* CONTACTO */
+
+.contacto {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    width: 50%;
+    border: solid 2px black;
+    box-shadow: 20px 20px black;
+    border-radius: 10px; 
+    background-color: #e7974f;
+}
+
+.contactos a{
+    text-decoration-line: none;
+    color: black;
+}
+
+/* CONOCENOS */
+
+.conocenos {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 40%;
+    margin-top: 50px;
+}
+
+.titleconocenos {
+    font-size: 30px;
+}
+
+.textconocenos {
+    font-size: 18px;
+}
+
+.alexandraimg {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+.textalexandra{
+    text-align: left;
+    width: 60%;
+    margin-top: 50px;
+}
+
+.alexandra{
+    flex-direction: row;
+    display: flex;
+}
+
+.Emanuel{
+    margin-bottom: 50px;
+}
+
+.emanuel{
+    flex-direction: row-reverse;
+    display: flex;
+}
+.titleemanuel{
+    text-align: right;
+}
+
+.textemanuel{
+    text-align: right;
+    width: 60%;
+    margin-top: 100px;
+}
+
+.emanuel img.emanuelimg{
+    width: 400px;
+    height: 400px;
+}
+
+.alumnos{
+    margin-bottom: -40px;
+    text-align: center;
+}
+.alumnos button {
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #e7974f;
+}
+
+/* HOME */
+
+.pf {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 25px;
+}
+
+.fecha {
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    text-align: center;
+}
+
+.fecha1{
+    border: solid 2px black;
+    border-radius: 10px;
+    box-shadow: 15px 15px black;
+    padding: 20px;
+    background-color: #e7974f;
+    width: 200px;
+}
+
+.fecha2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    border: solid 2px black;
+    border-radius: 10px;
+    box-shadow: 15px 15px black;
+    padding: 20px;
+    background-color: #e7974f;
+    width: 200px;
+}
+
+.fecha3{
+    border: solid 2px black;
+    border-radius: 10px;
+    box-shadow: 15px 15px black;
+    padding: 20px;
+    background-color: #e7974f;
+    width: 200px;
+}
+
+.curso1,
+.curso2,
+.curso3 {
+    font-weight: bolder;
+}
+
+/* ALUMNOS */
+
+
+
+.h1{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.h3{
+    text-align: center;
+}
+
+table{
+    border: 2px solid black;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(204, 236, 130);
+}
+
+th{
+    border: 2px solid rgb(218, 165, 66);
+    background-color: beige;
+}
+
+.lista{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: space-around;
+    background-color: #c3d97d;
+    border-radius: 40px;
+}
+
+.h3{
+    text-align: center;
+}
+dl{
+    text-align: center;
+    background-color: #c3d97d;
+    border-radius: 50px;
+    width: 40%;
+    margin: auto;
+}
+
+dt{
+    color: rgb(109, 149, 72);
+    font-size: 20px;
+}
+
+/* FORMULARIO */
+
+form    {
+    background-color: #e7974f;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+    font-size: 20px;
+}
+.h2{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nombref,
+.correof{
+    flex-direction: column;
+    display: flex   ;
+    text-align: center;
+}
+
+.sobreti{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column  ;
+    width: 30%;
+}
+
+.submit{
+    width: 30%;
+    margin: auto;
+}
