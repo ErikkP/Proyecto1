@@ -54,6 +54,10 @@
 .buttons a {
     text-decoration-line: none;
 }
+.buttons button{
+    border-radius: 20px;
+    background-color: #e7974f;
+}
 
 /* CONTACTO */
 
