@@ -217,7 +217,7 @@ table{
     border: 2px solid black;
     text-align: center;
     margin: auto;
-    background-color: rgb(204, 236, 130);
+    background-color: #e7974f;
 }
 
 th{
@@ -230,23 +230,28 @@ th{
     width: 50%;
     margin: auto;
     justify-content: space-around;
-    background-color: #c3d97d;
+    background-color: #e7974f;
     border-radius: 40px;
 }
 
 .h3{
     text-align: center;
+    font-size: 23px
 }
 dl{
     text-align: center;
-    background-color: #c3d97d;
+    background-color: #e7974f;
     border-radius: 50px;
     width: 40%;
     margin: auto;
 }
 
+.lista p{
+    font-size: 20px;
+}
+
 dt{
-    color: rgb(109, 149, 72);
+    color: #ff6600;
     font-size: 20px;
 }
 
